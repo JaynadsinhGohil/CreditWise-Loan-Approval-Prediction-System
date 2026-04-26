@@ -103,7 +103,4 @@ streamlit run app.py
 **Jaynad Gohil**  
 CSE Student 
 📧 gohiljaynadsinh1506@gmail.com
-=======
-# CreditWise-Loan-Approval-Prediction-System
-Developed an ML-based loan approval prediction model using Python, Pandas, and Scikit-learn to classify loan applications as approved or rejected based on financial and demographic features.
->>>>>>> b647d09435aeb2715d0d47fdf10753e3a8994a96
+
